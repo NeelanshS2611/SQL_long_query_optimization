@@ -1,4 +1,4 @@
-# SQL_long_query_optimization
+# SQl Query Optmization
 This SQL case study shows how to optimize long SQL queries. Uses of Joins, Case statements, CTEs, Windows functions are covered in this SQL script.
 
 In this case two tables are given, Employees table to get employee information, Salary_history table to track salary changes and promotions. 
